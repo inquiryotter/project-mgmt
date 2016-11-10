@@ -25,3 +25,6 @@ Here are a few resources to help you right off the bat:
 When you are done, click on the [EXERCISES](/EXERCISES/) folder and follow the instructions in the RetirementParty.md.
 
 For more practice in GitHub including learning about branches, try this exercise: https://guides.github.com/activities/hello-world/ 
+
+## Let's try editing this with some emojis... 
+:neckbeard::neckbeard::neckbeard::neckbeard::neckbeard::neckbeard::neckbeard::neckbeard::neckbeard::neckbeard:
